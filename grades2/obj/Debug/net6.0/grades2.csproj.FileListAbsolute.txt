@@ -1,0 +1,15 @@
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\grades2.csproj.AssemblyReference.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\grades2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\grades2.AssemblyInfoInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\grades2.AssemblyInfo.cs
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\grades2.csproj.CoreCompileInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\bin\Debug\net6.0\grades2.exe
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\bin\Debug\net6.0\grades2.deps.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\bin\Debug\net6.0\grades2.runtimeconfig.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\bin\Debug\net6.0\grades2.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\bin\Debug\net6.0\grades2.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\grades2.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\refint\grades2.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\grades2.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\grades2.genruntimeconfig.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\grades2\obj\Debug\net6.0\ref\grades2.dll
